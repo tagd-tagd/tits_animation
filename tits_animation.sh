@@ -1,4 +1,5 @@
 #!/bin/bash
+# https://github.com/tagd-tagd/tits_animation
 declare -r LOG=$(mktemp)
 declare JP PID
 trap 'echo
